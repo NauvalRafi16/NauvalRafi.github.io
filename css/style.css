@@ -1,0 +1,25 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #e2edff ;
+    background-color: rgb(255, 127, 80);
+}
+#projects {
+    background-color: white ;
+}
+section {
+    padding-top:5rem ;
+}
+
+.progress {
+    height: 15px;
+}
+.skill {
+    padding: 40px;
+
+}
+p {
+    text-align: left;
+}
+#contact {
+    background-color: coral ;
+}
